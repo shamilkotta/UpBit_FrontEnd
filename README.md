@@ -1,15 +1,15 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width="120px" src="public/logo.png" alt="Upbit logo"></a>
+ <img width="120px" src="/public/logo.png" alt="Upbit logo"></a>
 </p>
 
 <h3 align="center">UpBit Front End</h3>
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_FrontEnd)
-[![GitHub Issues](https://img.shields.io/github/issues/jsdcommunity/build_Together_Freelacing-site-for-Developers_FrontEnd.svg)](https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_FrontEnd/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/jsdcommunity/build_Together_Freelacing-site-for-Developers_FrontEnd.svg)](https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_FrontEnd/pulls)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/shamilkotta/UpBit_FrontEnd)
+[![GitHub Issues](https://img.shields.io/github/issues/shamilkotta/UpBit_FrontEnd.svg)](https://github.com/shamilkotta/UpBit_FrontEnd/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/shamilkotta/UpBit_FrontEnd.svg)](https://github.com/shamilkotta/UpBit_FrontEnd/pulls)
 
 </div>
 
@@ -69,10 +69,10 @@ A step by step series of examples that tell you how to get a development env run
 Clone this repository to your local system.
 
 ```
-git clone https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_FrontEnd.git
+git clone https://github.com/shamilkotta/UpBit_FrontEnd.git
 ```
 
-Then go to this project directory by running command `cd build_Together_Freelacing-site-for-Developers_FrontEnd`
+Then go to this project directory by running command `cd UpBit_FrontEnd`
 
 Install required packages
 
@@ -85,6 +85,10 @@ Start the react development server
 ```
 yarn start
 ```
+
+## **Contributing**
+
+Read contributing instructions and guidlines from [here](/CONTRIBUTING.md).
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
@@ -99,4 +103,4 @@ yarn start
 -  [@ajeeshcp](https://github.com/ajeeshcp) - Contributor
 -  [@fathimafarhath](https://github.com/fathimafarhath) - Contributor
 
-More details about [contributors here](https://github.com/jsdcommunity/build_Together_Freelacing-site-for-Developers_FrontEnd/contributors).
+More details about [contributors here](https://github.com/shamilkotta/UpBit_FrontEnd/contributors).
