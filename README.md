@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width="120px" src="/public/logo.png" alt="Upbit logo"></a>
+ <img width="120px" src="https://raw.githubusercontent.com/shamilkotta/UpBit_FrontEnd/master/public/logo.png" alt="Upbit logo"></a>
 </p>
 
 <h3 align="center">UpBit Front End</h3>
